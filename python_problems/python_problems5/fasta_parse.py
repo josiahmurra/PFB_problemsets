@@ -16,7 +16,7 @@ with open(fasta_path, 'r') as fasta_obj:
         line = line.rstrip().replace(">", "")
 
         if n % 2 == 0:
-            my_key = line # First line is the key
+            my_key = line # First line is the key. Not sure if fasta files ever have headers?
         elif n % 2 == 1:
             fasta_dic[my_key] = line # Second line is the value
         n += 1
