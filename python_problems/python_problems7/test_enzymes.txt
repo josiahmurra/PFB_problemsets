@@ -1,0 +1,14 @@
+ 
+REBASE version 310                                              bionet.310
+ 
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    REBASE, The Restriction Enzyme Database   http://rebase.neb.com
+    Copyright (c)  Dr. Richard J. Roberts, 2023.   All rights reserved.
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+Rich Roberts                                                    Sep 27 2023
+ 
+AaaI (XmaIII)                     C^GGCCG
+AacLI (BamHI)                     GGATCC
+AaeI (BamHI)                      GGATCC
+AagI (ClaI)                       AT^CGAT
